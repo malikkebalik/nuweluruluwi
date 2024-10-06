@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://nuweluruluwi.pages.dev/sitemap.xml
